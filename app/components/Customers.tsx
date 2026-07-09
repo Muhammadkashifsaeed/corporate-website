@@ -26,7 +26,7 @@ const Customers = () => {
        
         <div className="mx-2 bg-white border-gray-200 rounded-lg shadow relative flex flex-col justify-center items-center">
           <div className="p-10 flex flex-col justify-center items-start">
-            <svg className="h-24 w-24 -mb-7" fill="currentColor" viewBox="0 0 24 24" alt="rating">
+            <svg className="h-24 w-24 -mb-7" fill="currentColor" viewBox="0 0 24 24" role="img" aria-label="rating">
               <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
             </svg>
             <h5 className="md:text-xl text-black font-semibold tracking-tight">
@@ -54,7 +54,7 @@ const Customers = () => {
        
         <div className="mx-2 bg-white border-gray-200 rounded-lg shadow relative flex flex-col justify-center items-center">
           <div className="p-10 flex flex-col justify-center items-start">
-            <svg className="h-24 w-24 -mb-7" fill="currentColor" viewBox="0 0 24 24" alt="rating">
+            <svg className="h-24 w-24 -mb-7" fill="currentColor" viewBox="0 0 24 24" role="img" aria-label="rating">
               <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
             </svg>
             <h5 className="md:text-xl text-black font-semibold tracking-tight">
@@ -81,7 +81,7 @@ const Customers = () => {
 
         <div className="mx-2 bg-white border-gray-200 rounded-lg shadow relative flex flex-col justify-center items-center">
           <div className="p-10 flex flex-col justify-center items-start">
-            <svg className="h-24 w-24 -mb-7" fill="currentColor" viewBox="0 0 24 24" alt="rating">
+            <svg className="h-24 w-24 -mb-7" fill="currentColor" viewBox="0 0 24 24" role="img" aria-label="rating">
               <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
             </svg>
             <h5 className="md:text-xl text-black font-semibold tracking-tight">
